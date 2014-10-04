@@ -1,0 +1,1 @@
+a:1:{i:0;a:6:{s:6:"prefix";s:12:"prefix_class";s:9:"layout_id";s:1:"1";s:8:"position";s:11:"content_top";s:6:"status";s:1:"1";s:10:"sort_order";i:1;s:13:"banner_layout";s:1:"1";}}

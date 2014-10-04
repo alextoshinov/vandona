@@ -1,0 +1,23 @@
+<?php // Превод и редакция: Владислав Николов (www.pazaruvaidnes.com); Всички права запазени!
+$_['lang_title']                    = 'OpenBay Про за Амазон | Моят Профил';
+$_['lang_my_account']               = 'Моят Профил';
+$_['lang_openbay']                  = 'OpenBay Про';
+$_['lang_overview']                 = 'Преглед на Амазон';
+$_['lang_my_account']               = 'Моят Профил';
+$_['lang_btn_return']               = 'Откажи';
+$_['lang_current_plan']             = 'Настоящ план';
+$_['lang_register_invite']          = "Регистрирайте се сега !";
+$_['lang_register']                 = 'Регистрация';
+$_['lang_loading']                  = 'Зареждане';
+$_['lang_change_plans']             = 'Промяна на плановете';
+$_['lang_your_plan']                = 'Текущият ви план и баланс';
+$_['lang_change_plan']              = 'Промяна на плана';
+$_['lang_change_plans_help']        = 'Не сте доволни от настоящият си план ?';
+$_['lang_name']                     = 'Име';
+$_['lang_description']              = 'Описание';
+$_['lang_price']                    = 'Цена';
+$_['lang_order_frequency']          = 'Импрот на поръчка';
+$_['lang_product_listings']         = 'Нови обяви на продуктите за месеца';
+$_['lang_listings_remaining']       = 'Каталог останалите обяви';
+$_['lang_listings_reserved']        = 'Продуктите се обработват';
+$_['lang_account_status']           = 'Статус на Профила';
